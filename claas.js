@@ -2,9 +2,9 @@ class Person {
   constructor(name) {
     this.name = name;
   }
-  constructor(name,age) {
+  constructor(name,ag) {
     this.name = name;
-    this.age=age;
+    this.ag=ag;
 
   }
 
